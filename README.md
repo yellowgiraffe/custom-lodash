@@ -1,6 +1,6 @@
 # Custom Lodash tested with Jest
 
-Implementation of shorted 'custom' version of the lodash library following next requirements:
+Implementation of shorted 'custom' version of the lodash framework following next requirements:
 
 * no usage of `Array.prototype.*` or `Object.prototype.*`
 * use ES6+ features
